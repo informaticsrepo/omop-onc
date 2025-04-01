@@ -1,5 +1,11 @@
 # OMOP-onc
 
+This readme file contains additional text describing the results.
+
+# files
+- **regimen** shows example of drug regiments in GENIE data
+- **source_drug_terms** shows examples of drug terms that aggregate drugs into ingredient class
+
 # materials
 https://www.aacr.org/professionals/research/aacr-project-genie/
 https://www.aacr.org/professionals/research/aacr-project-genie/bpc/nsclc
