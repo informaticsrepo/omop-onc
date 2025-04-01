@@ -13,8 +13,8 @@ https://www.aacr.org/wp-content/uploads/2022/05/GENIE-BPC-NSCLC-v2.0-public-Anal
 
 Data is free of exact dates.
 
-GENIE main registry has some data elements.
-Specific projects (e.g., NSCLC
+GENIE main registry has very limited set of data elements.
+Specific projects (e.g., NSCLC) have much richer set of data elements.
 
 
 # Evaluation
